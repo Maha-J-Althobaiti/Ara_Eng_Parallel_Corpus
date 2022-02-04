@@ -27,7 +27,7 @@ Please contact us.
 
 E-mail: (m.j.althobaiti AT gmail dot com) (maha.j AT tu dot edu dot sa)
 	
-Also, please cite our paper in any published work using this resource:
+Please cite our paper in any published work using this resource:
 
 ```
 @article{althobaiti2021simple,
