@@ -22,4 +22,24 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 		NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material. 
 
 
-# To be released soon...
+## The corpus is available on request
+Please contact us.
+
+E-mail: (m.j.althobaiti AT gmail dot com) (maha.j AT tu dot edu dot sa)
+	
+Also, please cite our paper in any published work using this resource:
+
+```
+@article{althobaiti2021simple,
+  title={A Simple Yet Robust Algorithm for Automatic Extraction of Parallel Sentences: A Case Study on Arabic-English Wikipedia Articles},
+  author={Althobaiti, Maha Jarallah},
+  journal={IEEE Access},
+  volume={10},
+  pages={401--420},
+  year={2021},
+  publisher={IEEE}
+}
+
+```
+
+Althobaiti, Maha Jarallah. "A Simple Yet Robust Algorithm for Automatic Extraction of Parallel Sentences: A Case Study on Arabic-English Wikipedia Articles." IEEE Access 10 (2021): 401-420.
